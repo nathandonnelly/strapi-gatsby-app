@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gatsby-source-strapi": "^5.0.4",
+    "gatsby-transformer-remark": "^6.15.0"
+  }
+}
